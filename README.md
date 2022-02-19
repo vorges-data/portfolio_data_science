@@ -16,9 +16,9 @@ A career in Data Science is my main professional objective, generating value for
 
 Through the cyclical method of learning, I develop personal projects with a marketing bias, always in search of value generation, through this study method I seek to find real and practical challenges straight from the battlefield of companies in Data Science.
 
-**Analytics tools:** Power BI, Python and SQL
-**Development tools:** Git and Scrum
-**Machine Learning:** Classification, Regression and Clustering
+* **Analytics tools:** Power BI, Python and SQL
+* **Development tools:** Git and Scrum
+* **Machine Learning:** Classification, Regression and Clustering
 
 **Links:**
 * [Blog](https://vorges.com.br/)
